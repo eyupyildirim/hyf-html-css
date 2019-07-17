@@ -1,0 +1,121 @@
+#wwa{ 
+  float:right;
+  width: 6%;
+  margin-top:11px;
+  font-family: monospace;
+  font-size: 20px;
+}
+#course{ 
+  float:right;
+  width: 7.5%;
+  margin-top:11px;
+  font-family: monospace;
+  font-size: 20px;}
+#contact{ 
+  float:right;
+  width: 15%;
+  margin-top:11px;
+  font-family: monospace;
+  font-size: 20px;}
+#AR{  
+  font-size: 30px;
+    float:left;
+  margin-left:10%;
+}
+#ambitious{ 
+  margin-top: 11px;
+  margin-left: 2px;
+  font-family: fantasy;
+  float:left;
+   }
+#ambitious1{ 
+  
+  font-family: fantasy;
+  font-size: 25px;
+   }
+h1{  
+  background-color: orange;
+font-family: "Arial black" , sans-serif;  
+font-size: 30px;
+text-align: center;
+  margin-top: 1px;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+span{color: orange;}
+.paragraph{font-size: 21px;
+  font-family: sans-serif;
+margin-left: 25%;
+margin-right: 25%;
+  margin-top: 10px;
+text-align: center;
+  font-style:italic;
+  
+}
+a:hover{background-color: orange;
+}
+a:link{color:black;}
+
+
+h2{  
+  background-color: orange;
+font-family: cursive;  
+font-size: 25px;
+text-align: center;
+  margin-top: 1px;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom:1px;
+}
+.image{width: 70%;
+  margin-left: 15%;
+  margin-right: 25%;
+}
+#photoexp{
+  
+  margin-left: 15%;
+  margin-top:37%;
+  position:absolute;
+  color:white;
+}
+#imagefl{
+  float: left;
+  width:35%;
+  height:450px;
+ 
+  margin-left: 15%;
+  margin-top: 35px;
+}
+#UUimage{float:right;
+margin-right:15%;
+  margin-top:10px;
+width:455px;
+  height:380px;
+border-style:groove;
+border-color:orange}
+
+.tables{
+ font-size: 20px;
+  margin-left:34%;
+  font-family:Verdana, Geneva, sans-serif;
+  width: 30%;}
+
+
+
+td{
+  
+  border: 1px solid black;
+
+}
+.tabledataright{
+  text-align: center;
+  color:orange;
+  }
+.lists{
+  font-size: 21px;
+  font-family: sans-serif;
+margin-left: 38%;
+margin-right: 25%;
+  margin-top: 10px;
+
+}
