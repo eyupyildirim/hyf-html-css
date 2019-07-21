@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>index</title>
+        <link rel = "stylesheet" type="text/css" href = "style">
+        
+    </head>
+
+    <body>
+        <section>
+            <h1>Professional CV</h1>
+            <img id="resume_image" src="img826.jpg" alt="resume_photo">
+            <div id="info">            
+                <p id="p_name"> Eyyup Yildirim </p>
+                <p id="p_title">Industrial Engineer</p> 
+                <p id="p_company"> ADCO Petroleum Additives</p>
+            </div>
+
+            <h2>Contact Information</h2>
+            <p>Email Address: eyupselahattin16@gmail.com</p>
+            <h2>Career Objective</h2>
+            <p>Ambitious person who has an industrial engineering background and 2+ years of experience in sales and marketing. Willing to improve his computer programming skills and make a good beginning in IT world.</p>
+            <h2>Experience (2 years)</h2>
+            <p class="positions">Sales and Marketing Specialist <span class="experience">(September 2017-August 2018)</span></p>
+            <p class="companies">ADCO Petroleum Additives</p> 
+            <br>
+            <p class="responsibilities"> Key Responsibilities </p>
+            <ul>
+                <li>Carry out the sales and marketing activities in terms of the NYCO lubricant products which my company is official distributor of</li>
+                <li>Determine the lubricant requirements of companies civil aviation, energy, defence industry in Turkey and report them to my managers</li>
+                <li>Give support to the customers within the technical issues before and after sales</li>
+                <li>Organize the operation of short term and long term customer orders and deliveries</li>
+                <li>Set up and organize meetings with customers</li>
+            </ul>
+            <p class="positions">Advertising Sales Specialist <span class="experience">(September 2016-August 2017)</span></p>
+            <p class="companies">Lubricant World Magazine</p> 
+            <br>
+            <p class="responsibilities"> Key Responsibilities </p>
+            <ul>
+                <li>Promote magazine to the companies and media agencies in the Turkey and Europe</li>
+                <li>Communicate with every marketing managers and media buying supervisors for offering advertising options</li>
+                <li>Follow the upcoming expos and events relevant the industry </li>
+                <li>Execute media partnerships within the international expo and events</li>
+                <li>Help editor regarding the creating content topics and preparing questions for interviews</li>
+            </ul>
+            <h2>Education</h2>
+            <p class="education">Bachelor's Degree, Industrial engineering</p>
+            <p class="education">Location: Izmir</p>
+
+        </section>
+    </body>
+</html>
